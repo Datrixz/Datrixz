@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🤝🏼 I’m looking to collaborate/Work on **React.js Frontend Projects*
+- 🤝🏼 I’m looking to collaborate/Work on **React.js Frontend Projects**
 
 - 👨‍💻 All of my projects are available on my [Portfolio Site](http://pranjalv17.xyz)
 
