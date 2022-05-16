@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Pranjal Vaishnav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![](https://komarev.com/ghpvc/?username=datrixz&style=flat-square) 
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 🤝🏼 I’m looking to collaborate/Work on **React.js Frontend Projects**
