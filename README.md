@@ -1,4 +1,5 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Pranjal Vaishnav</h1>
+<h1 align="center">Hi 🙋‍♂️,</h1>
+<h1 align="center">I'm Pranjal Vaishnav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=datrixz&style=flat-square) 
@@ -7,17 +8,17 @@
 
 - 🤝🏼 I’m looking to collaborate/Work on **React.js Frontend Projects**
 
-- 👨‍💻 All of my projects are available on my [Portfolio Site](http://pranjalv17.xyz)
+- 👨‍💻 All of my projects are available on my [Portfolio Site](https://pranjalv17.netlify.app)
 
 - 📫 Reach me on **pranjalvexe@gmail.com**
 
-- 💼 My LinkedIn Profile [pranjal-vaishnav](http://linkedin.pranjalv17.xyz)
+- 💼 My LinkedIn Profile [pranjal-vaishnav](www.linkedin.com/in/pranjal-vaishnav)
 
 - ⚡More About me : **I love Dogs 🐕❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pranjal vaishnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal vaishnav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranjal-vaishnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal vaishnav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
