@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Pranjal Vaishnav</h1>
+<h1 align="center">Hi 🙋, I'm Pranjal Vaishnav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 🙋 I’m looking to collaborate on **React.js Frontend Projects**
+- 🤝🏼 I’m looking to collaborate/Work on **React.js Frontend Projects*
 
-- 🤝 I’m looking for help with **MERN Stack Development**
+- 👨‍💻 All of my projects are available on my [Portfolio Site](http://pranjalv17.xyz)
 
-- 👨‍💻 All of my projects are available at [http://pranjalv17.xyz](http://pranjalv17.xyz)
+- 📫 Reach me on **pranjalvexe@gmail.com**
 
-- 📫 How to reach me **pranjalvexe@gmail.com**
+- 💼 My LinkedIn Profile [pranjal-vaishnav](http://linkedin.pranjalv17.xyz)
 
-- 💼 My LinkedIn Profile [http://linkedin.pranjalv17.xyz](http://linkedin.pranjalv17.xyz)
-
-- ⚡More About me **I love Dogs 🐕❤️**
+- ⚡More About me : **I love Dogs 🐕❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datrixz&show_icons=true&locale=en" alt="datrixz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datrixz&" alt="datrixz" /></p>
