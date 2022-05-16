@@ -12,7 +12,7 @@
 
 - 📫 Reach me on **pranjalvexe@gmail.com**
 
-- 💼 My LinkedIn Profile [pranjal-vaishnav](www.linkedin.com/in/pranjal-vaishnav)
+- 💼 My LinkedIn Profile [pranjal-vaishnav](https://linkedin.com/in/pranjal-vaishnav)
 
 - ⚡More About me : **I love Dogs 🐕❤️**
 
